@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a DIY Digital Microscope](/2025/01/02/Digital_Microscope.html)
+- [How I Built a DIY Digital Microscope](https://eliferrara.com/2025/01/02/Digital_Microscope.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
