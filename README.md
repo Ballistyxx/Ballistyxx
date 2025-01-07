@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **eli.ferrara256@gmail.com**
 
-### Blogs posts
+### Blogs post
 <!-- BLOG-POST-LIST:START -->
 - [How I Built a DIY Digital Microscope](https://eliferrara.com/2025/01/02/Digital_Microscope.html)
 <!-- BLOG-POST-LIST:END -->
