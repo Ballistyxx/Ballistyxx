@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ballistyxx](https://github.com/Ballistyxx)
 
-- 📝 I regularly write articles on [eliferrara.com](eliferrara.com)
+- 📝 I regularly write articles on [eliferrara.com](https://eliferrara.com)
 
 - 💬 Ask me about **Robotics, Circuit Design, and CAD**
 
