@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eli Ferrara</h1>
+<h1 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Eli+Ferrara.)](https://git.io/typing-svg)
+  
+</h1>
+
+
 <h3 align="center">An aspiring ECE High Schooler with interests in circuit design and CAD</h3>
 
 - 🔭 I’m currently working on [a 5-axis, inverse-kinematics capable cobot](https://github.com/Ballistyxx/Bucky-Arm)
