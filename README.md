@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [eliferrara.com](https://eliferrara.com)
 
-- 💬 Ask me about **Robotics, Circuit Design, and CAD**
+- 💬 Ask me about **CAD, Circuit Design, and Robotics**
 
 - 📫 How to reach me **eli.ferrara256@gmail.com**
 
