@@ -21,6 +21,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a DIY Desktop Variable Power Supply](https://eliferrara.com/2025/01/15/Desktop_Power_Supply.html)
 - [How I Built a DIY Digital Microscope](https://eliferrara.com/2025/01/02/Digital_Microscope.html)
 <!-- BLOG-POST-LIST:END -->
 
