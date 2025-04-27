@@ -21,6 +21,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Distributed Computing Cluster with Udoo Quads](https://eliferrara.com/2025/04/27/Distributed_Computing.html)
 - [How I Built a Thermal Camera from Scratch](https://eliferrara.com/2025/02/15/Thermal_Camera.html)
 - [How I Built a DIY Desktop Variable Power Supply](https://eliferrara.com/2025/01/15/Desktop_Power_Supply.html)
 - [How I Built a DIY Digital Microscope](https://eliferrara.com/2025/01/02/Digital_Microscope.html)
