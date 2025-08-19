@@ -16,4 +16,4 @@ jobs:
       - name: Blog Post Workflow
         uses: gautamkrishnar/blog-post-workflow@1.8.8
         with:
-          feed_list: "https://eliferrara.com/feed.xml"
+          feed_list: "https://eliferrara.com/api/rss"

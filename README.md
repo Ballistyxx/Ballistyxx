@@ -7,9 +7,9 @@
 
 <h3 align="center">An aspiring ECE High Schooler with interests in circuit design and CAD</h3>
 
-- 🔭 I’m currently working on [a 5-axis, inverse-kinematics capable cobot](https://github.com/Ballistyxx/Bucky-Arm)
+- 🔭 I’m currently working on [an embedded flight controller board](https://github.com/Ballistyxx/Blimp)
 
-- 🌱 I’m currently learning **Jekyll and static site building**
+- 🌱 I’m currently learning **Reinforcement Learning and analog IC design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ballistyxx](https://github.com/Ballistyxx)
 
@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/eli-ferrara-9318bb2b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eli-ferrara-9318bb2b9" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19604481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19604481" height="30" width="40" /></a>
-<a href="https://eliferrara.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://eliferrara.com/feed.xml" height="30" width="40" /></a>
+<a href="https://eliferrara.com/api/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://eliferrara.com/api/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
