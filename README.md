@@ -1,8 +1,10 @@
-<h1 align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1500&pause=1000&color=DDDDDD&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Eli+Ferrara.)](https://git.io/typing-svg)
-  
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1500&pause=1000&color=DDDDDD&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Eli+Ferrara.">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1500&pause=1000&color=222222&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Eli+Ferrara.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1500&pause=1000&color=DDDDDD&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Eli+Ferrara." />
+</picture>
 
 
 <h3 align="center">An aspiring ECE High Schooler with interests in circuit design and CAD</h3>
