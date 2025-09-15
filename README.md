@@ -11,7 +11,7 @@
 
 <h3 align="center">An aspiring ECE High Schooler with interests in circuit design and CAD</h3>
 
-- 🔭 I’m currently working on [an embedded flight controller board](https://github.com/Ballistyxx/Blimp)
+- 🔭 I’m currently working on a custom Allwinner V3s-based SBC
 
 - 🌱 I’m currently learning **Reinforcement Learning and analog IC design**
 
