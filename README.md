@@ -11,7 +11,7 @@
 
 <h3 align="center">An aspiring ECE High Schooler with interests in circuit design and CAD</h3>
 
-- 🔭 I’m currently working on a custom Allwinner V3s-based SBC
+- 🔭 I’m currently working on a custom electric go-cart circuit board
 
 - 🌱 I’m currently learning **Reinforcement Learning and analog IC design**
 
