@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Standalone Digital Microscope with the Pi HQ Camera](https://eliferrara.com/blog/hqcam)
 - [Designing and Manufacturing a Custom PCB for a Micro Blimp](https://eliferrara.com/blog/falcon-flight)
 - [Building a Distributed Computing Cluster with Udoo Quads](https://eliferrara.com/blog/distributed-computing)
 - [How I Built a Thermal Camera from Scratch](https://eliferrara.com/blog/thermal-camera)
 - [How I Built a DIY Desktop Variable Power Supply](https://eliferrara.com/blog/desktop-power-supply)
-- [How I Built a DIY Digital Microscope](https://eliferrara.com/blog/digital-microscope)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
